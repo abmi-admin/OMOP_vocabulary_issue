@@ -1,6 +1,10 @@
 # Join the Journey 
-{: .text-center}
+<br>
+<br>
+<br>
 
 ## Sharing mapped OMOP vocabulary issues 
-{: .text-center}
+<br>
+<br>
+<br>
 
