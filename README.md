@@ -1,4 +1,4 @@
-# Join the Journey
+# Join the Journey {: .text-center}
 
-## Sharing mapped OMOP vocabulary issues
+## Sharing mapped OMOP vocabulary issues {: .text-center}
 
